@@ -1,6 +1,7 @@
 import Vue from 'vue'
-import ScrollTop from './ScrollTop.vue'
+import App from './App.vue'
 new Vue({
-  el: '#app',
-  render: h => h(ScrollTop)
-})
+    el: '#app',
+    components: { App },
+    template: '<App/>'
+});
