@@ -1,8 +1,8 @@
-# vue-back-top
+# vue-backTop
 
 > A Vue.js project
 
-## vue-back-top
+## vue-backTop
 
 ``` bash
 # install dependencies
